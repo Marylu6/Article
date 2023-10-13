@@ -1,0 +1,1 @@
+This is a project that i made for myself is an article of general news i use Vox and US news as reference.
